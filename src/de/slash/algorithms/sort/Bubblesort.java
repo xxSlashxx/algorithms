@@ -1,16 +1,16 @@
 package de.slash.algorithms.sort;
 
-import de.slash.algorithms.utils.ArrayGenerator;
-
 import java.util.Arrays;
+
+import static de.slash.algorithms.utils.ArrayGenerator.generateArray;
 
 public class Bubblesort {
 
     public static void main(String[] args) {
-        int[] array = ArrayGenerator.generateArray();
-        System.out.println("The generated array to sort:\n" + Arrays.stream(array).boxed().toList());
+        int[] array = generateArray();
+        System.out.println("The generated array to sort:\n" + Arrays.toString(array));
         sort(array);
-        System.out.println("The sorted array:\n" + Arrays.stream(array).boxed().toList());
+        System.out.println("The sorted array:\n" + Arrays.toString(array));
     }
 
     private static void sort(int[] array) {
