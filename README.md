@@ -7,7 +7,9 @@ This repository contains implementations of several basic sorting algorithms in 
 The following sorting algorithms are implemented:
 
 - Bubble Sort
+- Selection Sort
 - Insertion Sort
+- Merge Sort
 
 Each algorithm is implemented in its own file.
 
