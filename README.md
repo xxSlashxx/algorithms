@@ -30,3 +30,9 @@ Insertion Sort builds the sorted list one item at a time. It takes each element 
 
 - **Time Complexity:** O(n^2) (Best: O(n) when the list is nearly sorted)
 - **Space Complexity:** O(1)
+
+### 4. Merge Sort
+Merge Sort is a divide-and-conquer algorithm. It divides the list into two halves, recursively sorts each half, and then merges the two sorted halves back together.
+
+- **Time Complexity:** O(n log n)
+- **Space Complexity:** O(n)
