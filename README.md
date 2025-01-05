@@ -1,4 +1,5 @@
 ![build status](https://github.com/xxSlashxx/algorithms/actions/workflows/maven.yml/badge.svg)
+[![codecov](https://codecov.io/gh/xxSlashxx/algorithms/graph/badge.svg?token=7HQGXS37O3)](https://codecov.io/gh/xxSlashxx/algorithms)
 # Algorithms
 
 ## Overview
