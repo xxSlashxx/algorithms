@@ -1,3 +1,4 @@
+![build status](https://github.com/xxSlashxx/algorithms/actions/workflows/maven.yml/badge.svg)
 # Algorithms
 
 ## Overview
