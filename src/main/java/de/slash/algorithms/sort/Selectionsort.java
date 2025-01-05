@@ -13,7 +13,7 @@ public class Selectionsort {
         System.out.println("The sorted array:\n" + Arrays.toString(array));
     }
 
-    private static void sort(int[] array) {
+    public static void sort(int[] array) {
         for (int i = 0; i < array.length - 1; i++) {
             int indexSmallestNumber = i;
 

@@ -13,7 +13,7 @@ public class MergeSort {
         System.out.println("The sorted array:\n" + Arrays.toString(array));
     }
 
-    private static void sort(int[] array) {
+    public static void sort(int[] array) {
         if (array.length < 2) {
             return;
         }
